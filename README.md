@@ -94,7 +94,7 @@ await ctx.send(embed=embed) # Sending Embed with Gif
   
 You can use the Nayo Files to do what ever you want, for example : help you create commands and more...
  
-#### The Creative Commons Zero Licence significate that this files was dedicated to the public domain
+#### [The Creative Commons Zero Licence](https://creativecommons.org/publicdomain/zero/1.0/deed.fr) significate that this files was dedicated to the public domain
 
 So you can use it without permissions, my goal is to publish this files to help people coding Bot with Python
   
