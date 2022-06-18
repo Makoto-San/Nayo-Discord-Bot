@@ -1,4 +1,3 @@
-# Commandes Fun
 import discord
 import discord.utils
 import PIL
