@@ -19,6 +19,6 @@
 If you see a vulnerability on Nayo like bugs and more please do this :
 >- Report the problem to Nayo Discord Server
 
->- Tell a Nayo Team Member what is the problem
+>- Ask a Nayo Team Membee about the problem
 
->- Tell us the version of
+>- Tell us in which version you encountered the problem (Version could not be choose, Version mean in what Version Period)
