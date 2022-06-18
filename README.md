@@ -38,6 +38,20 @@
 <sub>React with Fun and Cool Gifs like Angry, Bang, Kill, Cry, Happy and More...</sub>
 
 ![Waifu](https://nayobot.moe/img/pre-2.2.png)
+
+------
+### 💼 Administration
+
+<sub>Keep an eye on your server and manage your server perfectly with Nayo, clone channels, delete it, create other, view Server Stats and More...</sub>
+
+![Waifu](https://nayobot.moe/img/pre-5.5.png)
+  
+------
+### ⚖️ Moderation
+
+<sub>Ban, Kick, Warn, Mute,... members on your server ! With Nayo you can keep an eye on your Members and make sure nobody cause troubles</sub>
+
+![Waifu](https://nayobot.moe/img/pre-6.6.png)
   
 ------
   
