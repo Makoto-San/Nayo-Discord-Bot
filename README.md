@@ -55,3 +55,26 @@
 ------
   
 ## Discover Nayo API
+  
+<sub>The powerful API that let you get cool and fun Anime Gifs, Using JSON with a lot's of Gifs !</sub>
+  
+```
+API Base Url : https://nayobot.moe/api/
+```
+  
+Request Type : GET
+  
+#### Response Type (Example) :
+```json
+{"Code":200,"Img":"https://nayobot.moe/api/hug/hug_20.gif"}
+```
+  
+#### Use Nayo API with Python (Example) :
+```python
+animeshocked = requests.get("https://nayobot.moe/api/shocked") # Using Request Module
+gif = animeshocked.json() # Get JSON on Html Page
+Img = gif['Img'] # Get the gif
+embed = discord.Embed(description=f"**{ctx.author.name}** is shocked 😱", color=0xd0c0e9) # Embed Example
+embed.set_image(url=Img) # Embed Image
+await ctx.send(embed=embed) # Sending Embed with Gif
+```
