@@ -88,3 +88,13 @@ await ctx.send(embed=embed) # Sending Embed with Gif
 {"Code":200,"Tags":["angry","bang","blush","cry","cuddle","dab","die","dance","disgusted","eat","happy","hug","kill","kiss","laugh","pat","poke","shocked","slap","wink"]}
 ```
   
+------
+  
+### About Nayo Files
+  
+You can use the Nayo Files to do what ever you want, for example : help you create commands and more...
+ 
+#### The Creative Commons Zero Licence significate that this files was dedicated to the public domain
+
+So you can use it without permissions, my goal is to publish this files to help people coding Bot with Python
+  
