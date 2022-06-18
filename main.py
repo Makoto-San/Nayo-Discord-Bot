@@ -3286,11 +3286,6 @@ async def unmute(ctx, member: discord.Member, *, reason="No Reason"):
     await ctx.send(embed=embed)
 
 
-time_window_milliseconds = 5000
-max_msg_per_window = 5
-author_msg_times = {}
-
-
 @bot.command()
 async def privacy(ctx):
   embed = discord.Embed(title="Privacy Policy", description="What Nayo storing on his Database ?", color = 0xd0c0e9)
