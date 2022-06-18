@@ -1,4 +1,3 @@
-# Anime Commands
 import discord
 import discord.utils
 import random
