@@ -1,6 +1,10 @@
 # Nayo Discord Bot
 ## Multipurpose Bot Based on Anime with lot's of Fun, Cool and Useful Commands like Anime, Hentai, Administration, Moderation, Economy and More...
 
+### [Invite Nayo](https://discord.com/oauth2/authorize?client_id=879082395750531093&permissions=8&scope=bot)
+
+------
+
 ### Important Links :
 
 [Website](https://nayobot.moe),
@@ -36,13 +40,6 @@
 ![Waifu](https://nayobot.moe/img/pre-2.2.png)
   
 ------
-### 🆙 Leveling System
-
-<sub>Discover Nayo Leveling System based on Anime (Currently in Developement)</sub>
-
-![Waifu](https://nayobot.moe/img/pre-4.4.png)
-  
-------
   
 # WARNING : Following Content Contains NSFW Image
   
@@ -51,6 +48,13 @@
 <sub>See and Send (NSFW Channels Only) : Hentai, Yaoi, Yuri, Pussy, Lewd, Boobs, Blowjob and more Anime NSFW Images... >///<</sub>
 
 ![Waifu](https://nayobot.moe/img/pre-7.7.png)
+  
+------
+### 🆙 Leveling System
+
+<sub>Discover Nayo Leveling System based on Anime (Currently in Developement)</sub>
+
+![Waifu](https://nayobot.moe/img/pre-4.4.png)
   
 ------
   
@@ -64,7 +68,7 @@ API Base Url : https://nayobot.moe/api/
   
 Request Type : GET
   
-#### Response Type (Example) :
+#### Response Type (JSON) (Example) :
 ```json
 {"Code":200,"Img":"https://nayobot.moe/api/hug/hug_20.gif"}
 ```
@@ -78,3 +82,9 @@ embed = discord.Embed(description=f"**{ctx.author.name}** is shocked 😱", colo
 embed.set_image(url=Img) # Embed Image
 await ctx.send(embed=embed) # Sending Embed with Gif
 ```
+  
+#### Nayo API Tags (JSON) :
+```json
+{"Code":200,"Tags":["angry","bang","blush","cry","cuddle","dab","die","dance","disgusted","eat","happy","hug","kill","kiss","laugh","pat","poke","shocked","slap","wink"]}
+```
+  
